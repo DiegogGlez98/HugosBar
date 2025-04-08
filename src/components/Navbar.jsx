@@ -102,15 +102,7 @@ const Navbar = () => {
               Sobre Nosotros
             </Link>
 
-            <Link
-              to="menu"
-              spy={true}
-              smooth={true}
-              duration={500}
-              className="hover:text-brightColor transition-all cursor-pointer"
-            >
-              Menu
-            </Link>
+            
 
             <Link
               to="review"

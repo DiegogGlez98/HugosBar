@@ -12,16 +12,14 @@ const About = () => {
           Porque Elegir Hugos bar?
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
-          architecto quisquam delectus minima perferendis nulla quia nisi
-          laborum, exercitationem cum quo accusantium, impedit sed. Dicta, quo
-          molestias omnis reprehenderit quae animi? Explicabo quasi accusamus
-          laboriosam temporibus delectus, aut a? Quasi?
-        </p>
+        Hugo’s Bar nació con una idea sencilla: crear un lugar donde la buena comida, las bebidas con personalidad y el ambiente acogedor se encuentren en perfecta armonía. Somos más que un restaurante, somos un punto de encuentro para amigos, familias y amantes del buen comer.
+
+Desde el primer día, nos hemos enfocado en ofrecer sabores auténticos, ingredientes frescos y una atención que te haga sentir como en casa. Ya sea que vengas por unas tapas para compartir, una cerveza artesanal bien fría o una cena completa para celebrar, en Hugo’s Bar siempre encontrarás algo para disfrutar.
+
+ </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi,
-          suscipit reiciendis accusamus recusandae eum aspernatur pariatur odit
-          veritatis facere. Magnam!
+        Con un toque urbano, un espíritu relajado y el sabor que deja huella, queremos que cada visita sea una experiencia memorable. Porque aquí, cada plato tiene una historia, y cada cliente es parte de la nuestra.
+       
         </p>
         <div className=" flex justify-center lg:justify-start">
           <Button title="Mostrar Mas" />

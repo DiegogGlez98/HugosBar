@@ -8,9 +8,9 @@ const Home = () => {
         <h1 className=" text-backgroundColor font-semibold text-6xl">
         Disfruta al máximo cada bocado.        </h1>
         <p className=" text-backgroundColor">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis et qui,
-          maxime assumenda repellat corrupti officia dolorum delectus labore
-          deleniti?
+        El sabor que une, el lugar que conquista.
+Disfruta de buena comida, tragos únicos y el mejor ambiente en un solo lugar.
+¡Tu mesa te está esperando!
         </p>
         <div className=" lg:pl-44">
           <Button title="Ordena Ahora" />

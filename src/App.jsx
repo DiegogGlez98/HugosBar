@@ -7,6 +7,7 @@ import Review from './components/Review'
 import Footer from './components/Footer'
 import WhatsAppButton from './components/WhatsappButton'
 import CallButton from './components/CallButton'
+import Contacto from './components/Contacto'
 
 const App = () => {
   return (
@@ -25,6 +26,9 @@ const App = () => {
         </div>
         <div>
           <Review/>
+        </div>
+        <div>
+          <Contacto/>
         </div>
         <div>
           <Footer/>
